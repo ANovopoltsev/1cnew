@@ -30,6 +30,24 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
+  <attributes uuid="c3ad0bff-c9b6-4269-8283-58e2104ac2aa">
+    <name>etoYjas</name>
+    <synonym>
+      <key>ru</key>
+      <value>Eto yjas</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <attributes uuid="dc59aa71-1549-45b7-9a0a-70ec3e388f62">
     <name>EtoFatalnayaOshibka1</name>
     <synonym>
